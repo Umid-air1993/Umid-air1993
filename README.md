@@ -1,1 +1,1 @@
-## Hi, I'm Umid <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm96eDU1bHFmNnB5bWJ2MWkwemU4NzV1YWo4NHdpd2dqcDhoYTA1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.webp" width="70px">
+## Hi, I'm Umid <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm96eDU1bHFmNnB5bWJ2MWkwemU4NzV1YWo4NHdpd2dqcDhoYTA1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.webp" width="200px">
